@@ -1,0 +1,2 @@
+# gloriousR
+First R package :)
